@@ -12,3 +12,5 @@ db.sqlite3-journal
 .venv
 
 htmlcov/
+.coverage
+__pycache__/
